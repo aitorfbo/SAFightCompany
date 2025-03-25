@@ -1,7 +1,7 @@
 <template>
   <header class="header">
     <div class="header-left">
-      <h1>Entrena, compite y superate. inscríbete con nosotros.</h1>
+      <h1>Entrena, compite y supérate. inscríbete con nosotros.</h1>
       <p> El momento es ahora. Deja atrás la rutina, despierta tu energía y entrena con nosotros. Supera tus miedos, fortalece tu mente y vive las artes marciales como un estilo de vida.</p>
 
     </div>
