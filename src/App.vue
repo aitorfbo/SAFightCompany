@@ -5,7 +5,6 @@
     <Teaser />
     <Penultimo />
     <Review />
-
     <Footer />
   </div>
 </template>
