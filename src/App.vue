@@ -10,7 +10,7 @@
 <script>
 import Navbar from './components/Navbar.vue'
 import Header from './components/Header.vue'
-import Teaser from './components/teaser.vue';
+import Teaser from './components/Teaser.vue';
 import Review from './components/Review.vue';
 
 export default {
